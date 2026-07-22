@@ -4,6 +4,9 @@
 
 A curated comparison of leading commercial e-commerce affiliate tracking platforms (**Refersion**, **UpPromote**, **AmbassadorFlow**, **Tapfiliate**, **Social Snowball**, **Impact.com**, **GoAffPro**) and their **open-source/self-hosted equivalents**. Primary emphasis on open-source options for cost control, customization, data ownership, and self-hosting flexibility—ideal for developers, indie hackers, and businesses avoiding recurring SaaS fees.
 
+
+**Keywords**: E-Commerce, Affiliate Tracking, SaaS, Open-Source, Referral Marketing, Shopify App, WooCommerce Trackers, Self-Hosted Solutions.
+
 ## 📖 Overview
 Affiliate trackers help manage referral links, track conversions (clicks, sales, commissions), handle payouts, and analyze performance—especially for Shopify, WooCommerce, and other e-commerce platforms. 
 
