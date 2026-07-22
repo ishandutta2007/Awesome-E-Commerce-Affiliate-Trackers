@@ -36,7 +36,7 @@ Commercial tools offer polished UIs, easy integrations, and support but come wit
 | **GoAffPro** | Commercial (Shopify) | Affordable monthly | Unlimited affiliates/sales | ~ Rev | Simple setup, payouts, reports | Small-medium Shopify stores | Shopify primary | No |
 
 ### Open-Source/Self-Hosted
-| Tool | Stars | Type | Pricing (approx.) | Free Tier Limit | Key Features | Best For | Integrations | Open-Source? |
+| Tool |  Github_Stars | Type | Pricing (approx.) | Free Tier Limit | Key Features | Best For | Integrations | Open-Source? |
 |---|---|---|---|---|---|---|---|---|
 | **Raider** | <a href="https://github.com/valeriansaliou/raider/stargazers"><img src="https://img.shields.io/github/stars/valeriansaliou/raider?style=social&color=white" alt="Stars"></a> | Open-Source | Free (self-host) | N/A (Fully Free) | Custom dashboard, tracking URLs, payouts | SaaS affiliate programs | Integrates with existing | **Yes** |
 | **eLitius** | <a href="https://github.com/intelliants/elitius/stargazers"><img src="https://img.shields.io/github/stars/intelliants/elitius?style=social&color=white" alt="Stars"></a> | Open-Source | Free (self-host) | N/A (Fully Free) | PHP/MySQL tracking, Smarty templates | Traditional affiliate setups | PHP-based | **Yes** |
