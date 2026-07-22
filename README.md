@@ -16,20 +16,26 @@ Commercial tools offer polished UIs, easy integrations, and support but come wit
 
 ## Comparison Table
 
-| Tool                  | Type                  | Pricing (approx.)                  | Key Features                                      | Best For                          | Integrations                  | Open-Source? |
-|-----------------------|-----------------------|------------------------------------|---------------------------------------------------|-----------------------------------|-------------------------------|--------------|
-| **Refersion**        | Commercial (SaaS)    | $39+/mo + 2-3% of sales           | First-party tracking, one-click payouts, marketplace, SKU-level commissions | Shopify eCom brands              | Shopify, PayPal, etc.        | No          |
-| **UpPromote**        | Commercial (App)     | Varies (Shopify app)              | Affiliate links, commissions, referrals, analytics | Small-medium Shopify stores      | Shopify native               | No          |
-| **AmbassadorFlow**   | Commercial           | Custom/Enterprise                 | Advanced workflows, multi-level, automation      | Mid-large brands                 | Multiple platforms           | No          |
-| **Tapfiliate**       | Commercial (SaaS)    | $89+/mo                           | Custom commissions, deep links, reporting, scaling | Growing SaaS & eCom              | 100+ (Shopify, Woo, etc.)    | No          |
-| **Social Snowball**  | Commercial           | Subscription-based                | Viral sharing, social referrals, automation      | Social-driven eCom               | Shopify, social platforms    | No          |
-| **Impact.com**       | Commercial (Platform)| $500+/mo (Enterprise)             | Full partnership mgmt, fraud protection, marketplace, advanced analytics | Large enterprises                | Broad (affiliates + creators)| No          |
-| **GoAffPro**         | Commercial (Shopify) | Affordable monthly                | Simple setup, payouts, reports                   | Small-medium Shopify stores      | Shopify primary              | No          |
-| **iDevAffiliate**    | Self-Hosted          | ~$499 one-time + hosting          | Full tracking, commissions, customizable         | Businesses wanting ownership     | PHP/MySQL, various           | No (proprietary) |
-| **Refferq**          | Open-Source          | Free (self-host)                  | Referral/affiliate mgmt, dashboards, scaling     | SaaS & eCom                      | Customizable                 | **Yes**     |
-| **Raider**           | Open-Source          | Free (self-host)                  | Custom dashboard, tracking URLs, payouts         | SaaS affiliate programs          | Integrates with existing     | **Yes**     |
-| **eLitius**          | Open-Source          | Free (self-host)                  | PHP/MySQL tracking, Smarty templates             | Traditional affiliate setups     | PHP-based                    | **Yes**     |
-| **RefearnApp**       | Open-Source          | Free (self-host, Docker)          | Stripe integration, lightweight tracking         | Simple referral programs         | Stripe                       | **Yes**     |
+### Commercial SaaS
+| Tool | Type | Pricing (approx.) | Free Tier Limit | Company Size | Key Features | Best For | Integrations | Open-Source? |
+|---|---|---|---|---|---|---|---|---|
+| **Impact.com** | Commercial (Platform) | $500+/mo (Enterprise) | N/A | .5B+ Val | Full partnership mgmt, fraud protection, marketplace, advanced analytics | Large enterprises | Broad (affiliates + creators) | No |
+| **Refersion** | Commercial (SaaS) | $39+/mo + 2-3% of sales | No free tier (14-day trial) | ~ Rev | First-party tracking, one-click payouts, marketplace, SKU-level commissions | Shopify eCom brands | Shopify, PayPal, etc. | No |
+| **Tapfiliate** | Commercial (SaaS) | $89+/mo | No free tier (14-day trial) | ~ Rev | Custom commissions, deep links, reporting, scaling | Growing SaaS & eCom | 100+ (Shopify, Woo, etc.) | No |
+| **AmbassadorFlow** | Commercial | Custom/Enterprise | N/A | ~ Rev | Advanced workflows, multi-level, automation | Mid-large brands | Multiple platforms | No |
+| **UpPromote** | Commercial (App) | Varies (Free plan available) | 200 referral orders/mo | ~ Rev | Affiliate links, commissions, referrals, analytics | Small-medium Shopify stores | Shopify native | No |
+| **Social Snowball** | Commercial | Subscription-based | N/A | ~ Rev | Viral sharing, social referrals, automation | Social-driven eCom | Shopify, social platforms | No |
+| **GoAffPro** | Commercial (Shopify) | Affordable monthly | Unlimited affiliates/sales | ~ Rev | Simple setup, payouts, reports | Small-medium Shopify stores | Shopify primary | No |
+
+### Open-Source/Self-Hosted
+| Tool | Stars | Type | Pricing (approx.) | Free Tier Limit | Key Features | Best For | Integrations | Open-Source? |
+|---|---|---|---|---|---|---|---|---|
+| **Raider** | <a href="https://github.com/valeriansaliou/raider/stargazers"><img src="https://img.shields.io/github/stars/valeriansaliou/raider?style=social&color=white" alt="Stars"></a> | Open-Source | Free (self-host) | N/A (Fully Free) | Custom dashboard, tracking URLs, payouts | SaaS affiliate programs | Integrates with existing | **Yes** |
+| **eLitius** | <a href="https://github.com/intelliants/elitius/stargazers"><img src="https://img.shields.io/github/stars/intelliants/elitius?style=social&color=white" alt="Stars"></a> | Open-Source | Free (self-host) | N/A (Fully Free) | PHP/MySQL tracking, Smarty templates | Traditional affiliate setups | PHP-based | **Yes** |
+| **Refferq** | <a href="https://github.com/Refferq/Refferq/stargazers"><img src="https://img.shields.io/github/stars/Refferq/Refferq?style=social&color=white" alt="Stars"></a> | Open-Source | Free (self-host) | N/A (Fully Free) | Referral/affiliate mgmt, dashboards, scaling | SaaS & eCom | Customizable | **Yes** |
+| **RefearnApp** | <a href="https://github.com/ZAK123DSFDF/refearnapp/stargazers"><img src="https://img.shields.io/github/stars/ZAK123DSFDF/refearnapp?style=social&color=white" alt="Stars"></a> | Open-Source | Free (self-host, Docker) | N/A (Fully Free) | Stripe integration, lightweight tracking | Simple referral programs | Stripe | **Yes** |
+| **iDevAffiliate** | N/A | Self-Hosted | ~$499 one-time + hosting | N/A | Full tracking, commissions, customizable | Businesses wanting ownership | PHP/MySQL, various | No (proprietary) |
+
 
 *Notes*: Pricing is approximate (as of 2026 data). Check official sites for latest. Open-source projects vary in maturity and maintenance.
 
