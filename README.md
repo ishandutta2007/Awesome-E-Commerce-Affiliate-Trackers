@@ -1,10 +1,10 @@
 <p align="center"><img src="assets/banner.svg" alt="Banner"></p>
 # Awesome-E-Commerce-Affiliate-Trackers
-## Top E-Commerce Affiliate Trackers & Open-Source Alternatives
+## 🚀 Top E-Commerce Affiliate Trackers & Open-Source Alternatives
 
 A curated comparison of leading commercial e-commerce affiliate tracking platforms (**Refersion**, **UpPromote**, **AmbassadorFlow**, **Tapfiliate**, **Social Snowball**, **Impact.com**, **GoAffPro**) and their **open-source/self-hosted equivalents**. Primary emphasis on open-source options for cost control, customization, data ownership, and self-hosting flexibility—ideal for developers, indie hackers, and businesses avoiding recurring SaaS fees.
 
-## Overview
+## 📖 Overview
 Affiliate trackers help manage referral links, track conversions (clicks, sales, commissions), handle payouts, and analyze performance—especially for Shopify, WooCommerce, and other e-commerce platforms. 
 
 Commercial tools offer polished UIs, easy integrations, and support but come with fees (often % of sales or monthly subscriptions). Open-source alternatives provide full control, no vendor lock-in, but may require technical setup and maintenance.
@@ -15,7 +15,7 @@ Commercial tools offer polished UIs, easy integrations, and support but come wit
 - Common Integrations: Shopify, WooCommerce, Stripe/PayPal payouts, analytics.
 - Pricing Models: Subscription + % fees vs. self-hosted (one-time or free).
 
-## Comparison Table
+## 📊 Comparison Table
 
 ### Commercial SaaS
 | Tool | Type | Pricing (approx.) | Free Tier Limit | Company Size | Key Features | Best For | Integrations | Open-Source? |
@@ -73,7 +73,7 @@ These are highlighted for flexibility, zero licensing fees, and full control. De
 - Handle payouts via Stripe/PayPal scripts.
 - Contribute to or fork repos for missing features.
 
-## Pros & Cons
+## ⚖️ Pros & Cons
 
 **Commercial Tools**:
 - **Pros**: Polished UX, dedicated support, fast onboarding, advanced security/fraud tools.
@@ -83,7 +83,7 @@ These are highlighted for flexibility, zero licensing fees, and full control. De
 - **Pros**: Free to use, full code ownership & customization, no percentage fees, data privacy.
 - **Cons**: Requires technical setup/maintenance, potentially fewer out-of-box features, self-managed updates/security.
 
-## Recommendations
+## 💡 Recommendations
 - **Small / Beginners**: GoAffPro, UpPromote, or RefearnApp.
 - **Growing Programs**: Tapfiliate / Refersion or Raider / Refferq.
 - **Enterprise / Scale**: Impact.com or heavily customized open-source stack.
