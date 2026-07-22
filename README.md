@@ -1,3 +1,4 @@
+<p align="center"><img src="assets/banner.svg" alt="Banner"></p>
 # Awesome-E-Commerce-Affiliate-Trackers
 ## Top E-Commerce Affiliate Trackers & Open-Source Alternatives
 
